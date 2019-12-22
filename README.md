@@ -1,2 +1,2 @@
-# Python_Monopoly-
-Building Classic Monopoly Game in python 
+# Python_Monopoly
+Building Classic HasbroMonopoly Game in python 
