@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3943b781-7b0e-4d62-b812-669794777bd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chance_deck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/community_chest_deck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency_1_usd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency_usd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chance_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/community_chest_card.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chance_deck.py" beforeDir="false" afterPath="$PROJECT_DIR$/chance_deck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/community_chest_deck.py" beforeDir="false" afterPath="$PROJECT_DIR$/community_chest_deck.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
