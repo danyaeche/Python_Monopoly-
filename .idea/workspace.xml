@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3943b781-7b0e-4d62-b812-669794777bd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/currency_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency_500.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curreny_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curreny_50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_chance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_community_chest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_jail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_railroad.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/community_chest_deck.py" beforeDir="false" afterPath="$PROJECT_DIR$/community_chest_deck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency_1_usd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency_usd.py" beforeDir="false" afterPath="$PROJECT_DIR$/currency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/dice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

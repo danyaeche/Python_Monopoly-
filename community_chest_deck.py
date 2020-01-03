@@ -33,4 +33,3 @@ class community_chest_deck(object):
             return vard
         }
 
-        
